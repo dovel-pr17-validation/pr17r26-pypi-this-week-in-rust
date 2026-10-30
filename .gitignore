@@ -1,0 +1,22 @@
+*.pyc
+bin
+lib
+include
+output
+*~
+cache
+.sass-cache
+**/.idea
+.DS_Store
+/.*
+!/.github/
+
+# Publishing creations...
+publishing/email
+publishing/output*
+publishing/juice
+
+draft/cft_rfc_fcp_draft_template.md
+
+# Rust tooling
+target/
